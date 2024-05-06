@@ -1,0 +1,45 @@
+#Manual
+
+To assemble the prototype the following methods can be used.
+This is considering all parts to be printed and ready to be assembled.
+The motors are mounted on the motor mounting plate using 10 mm m2.5 bolts and washers. 
+Insert the m3 heat inserts into the force sensors using for example a soldering iron.
+Make sure the heat inserts are pressed in straight.
+It is best to assembly the magnet and hall sensors on the force sensor before putting them into the test setup.
+Make sure to check the polarity of the magnet before inserting it into the sensor.
+Then use a microcontroller to position the magnet until the desired output value is reached for the non-extended sensor.
+The sliders can then pressed into the force sensors, make sure they are fully inserted.
+A hammer can be used to carefully tap on the sliders.
+Place the sliders into the bushings on the motor mounting plate, check the orientation of the force sensors using the Solidworks assembly.
+Screw the spindle into the heat inserts in the force sensor, a dap of loctite can be used to make a secure connection.
+The slider caps can now be placed at the end of the actuation units usign a 10mm m3 bolt and locknut.
+The cable clip can be glued in place on the slider cap.
+The limit switch boards can be mounted onto the motor mouting plate using 10 mm m3 bolts washers and nuts.
+Check the model for the order of these parts, the washer goes between the board and the motor mounting plate.
+
+Now take the proximal connector ring and carefully tread the 140mm threaded rods straigth into the holes.
+Make sure that the threads are butted but not exceeding out of the ring. 
+Note that it may be convenient to already put the proximal section alignment plate, nuts and washers into place, this saves the user some effort when the rods are already installed.
+Though this may be awkward to thread the rods into the connector ring.
+Put the proximal section alignment plate into place, and tighten the m4 nuts.
+On open ends of the rods, place two nuts and a washer, make sure to leave some 10 mm thread open to put the motor mounting plate into position. 
+Check the distance between the proximal section alignment plate and the motor mounting plate to be 112.5 mm and tighten the double nuts.
+Use a washer and nut on each rod to fix the motor mounting plate into place.
+The proximal section is now finished.
+
+For the distal section start of with the MTI lock mounting plate and install the MTI lock pivot pins in the corresponding holes.
+Press the MTI lock tabs into place on the pins.
+Put the MTI lock actuation ring into place and use the MTI lock links to connect the MTI lcok tabs with the MTI lock actuation ring.
+Now thread the 130 mm m4 threaded rods into the distal connector ring, similar to the proximal connector.
+Add the MTI lock spacers to the threaded rods.
+Place the MTI lock mouting plate in position and use m4 washers and nuts to fix the parts together.
+
+Proceed with adding the m4 eye hooks to the diffuser using m4 washers and nuts.
+First put on a m4 nut and washer on the eye bolt, put it into the diffuser and use a washer and nut to fix it in place.
+Make sure the distance between the spoke and eye hook is correct. 
+This ensures proper allignement with the actuation units and force sensor.
+On the threaded rods, add double nuts and a washer, leaving 
+space to put on the diffuser and make sure the distance between the MTI lock mounting plate and the diffucer is 75 mm
+Tighten the nuts.
+Install m4 nuts into the Din 466 knobs, place a washer on the threaded rods and tighten the knobs.
+The distal section is now finished.
